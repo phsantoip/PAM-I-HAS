@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\views\\postview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\views\\postview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\views\\postview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\views\\postview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|d:\\ph e vh\\pam\\projeto\\httpclient\\httpclient\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99BA2FB-DDCD-45A2-9A96-74BDE97F8EDA}|HTTPClient\\HTTPClient.csproj|solutionrelative:httpclient\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HTTPClient\\MainPage.xaml",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\MainPage.xaml",
+              "RelativeToolTip": "HTTPClient\\MainPage.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T20:13:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\App.xaml",
+              "RelativeDocumentMoniker": "HTTPClient\\App.xaml",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\App.xaml",
+              "RelativeToolTip": "HTTPClient\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T20:12:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\AppShell.xaml",
+              "RelativeDocumentMoniker": "HTTPClient\\AppShell.xaml",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\AppShell.xaml",
+              "RelativeToolTip": "HTTPClient\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T20:57:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostView.xaml.cs",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Views\\PostView.xaml.cs",
+              "RelativeDocumentMoniker": "HTTPClient\\Views\\PostView.xaml.cs",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Views\\PostView.xaml.cs",
+              "RelativeToolTip": "HTTPClient\\Views\\PostView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:55:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\ViewModels\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "HTTPClient\\ViewModels\\PostViewModel.cs",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\ViewModels\\PostViewModel.cs",
+              "RelativeToolTip": "HTTPClient\\ViewModels\\PostViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:48:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "HTTPClient\\Services\\PostService.cs",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Services\\PostService.cs",
+              "RelativeToolTip": "HTTPClient\\Services\\PostService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:09:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Models\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "HTTPClient\\Models\\PostViewModel.cs",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Models\\PostViewModel.cs",
+              "RelativeToolTip": "HTTPClient\\Models\\PostViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:31:08.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostView.xaml",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Views\\PostView.xaml",
+              "RelativeDocumentMoniker": "HTTPClient\\Views\\PostView.xaml",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Views\\PostView.xaml",
+              "RelativeToolTip": "HTTPClient\\Views\\PostView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T20:20:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "HTTPClient\\Models\\Post.cs",
+              "ToolTip": "D:\\ph e vh\\pam\\projeto\\HTTPClient\\HTTPClient\\Models\\Post.cs",
+              "RelativeToolTip": "HTTPClient\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:11:50.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

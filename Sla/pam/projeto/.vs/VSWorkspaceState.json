@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HTTPClient",
+    "\\HTTPClient\\HTTPClient",
+    "\\HTTPClient\\HTTPClient\\Services",
+    "\\HTTPClient\\HTTPClient\\ViewModels",
+    "\\HTTPClient\\HTTPClient\\Views"
+  ],
+  "SelectedNode": "\\HTTPClient\\HTTPClient\\Services\\PostService.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,1 @@
+A:\Professor\2BI\PAM\Projetos\HTTPClient\HTTPClient\HTTPClient.csproj;x64
